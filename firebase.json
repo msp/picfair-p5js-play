@@ -1,0 +1,9 @@
+{
+  "firebase": "picfair-p5js-play",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
